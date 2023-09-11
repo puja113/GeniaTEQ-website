@@ -1,2 +1,2 @@
 # GeniaTEQ-website
-Key Skill : -  Expressjs , mongodb 
+Key Skill : -  Expressjs , My SQL 
